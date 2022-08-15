@@ -25,3 +25,13 @@ This is [my repo](https://github.com/VasylRosokha/kottans-frontend)
 ![](task_linux_cli/linux_quiz_4.png)
 
 About HTTP, it was new and a little difficult for me but interesting.
+
+## Git Collaboration
+
+![](task_git_collaboration/coursera_week_3.png)
+
+![](task_git_collaboration/coursera_week_4.png)
+
+![](task_git_collaboration/learnbranching1.png)
+
+![](task_git_collaboration/learnbranching3.png)
