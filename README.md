@@ -35,3 +35,15 @@ About HTTP, it was new and a little difficult for me but interesting.
 ![](task_git_collaboration/learnbranching1.png)
 
 ![](task_git_collaboration/learnbranching3.png)
+
+## Intro to HTML and CSS
+
+![](task_html_css_intro/coursera_html.png)
+![](task_html_css_intro/coursera_css.png)
+![](task_html_css_intro/codecademy.png)
+
+
+
+
+
+
