@@ -42,6 +42,12 @@ About HTTP, it was new and a little difficult for me but interesting.
 ![](task_html_css_intro/coursera_css.png)
 ![](task_html_css_intro/codecademy.png)
 
+## Responsive Web Design
+
+![](task_responsive_web_design/frogy.png)
+![](task_responsive_web_design/grid_garden.png)
+
+
 
 
 
